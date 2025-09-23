@@ -16,7 +16,7 @@
 ---
 
 ### 👨‍🎓 About Me
-- 🎓 I'm a **B.E. student in Electronics & Telecommunication (ENTC)**  
+- 🎓 I'm a **T.E. student in Electronics & Telecommunication (ENTC)**  
 - 💻 Passionate about **Web Development**, **Problem Solving**, and **Backend Programming**
 - 🌱 Currently improving skills in **Full Stack Development**
 - 📫 Reach me at **suhaspol99@gmail.com**
