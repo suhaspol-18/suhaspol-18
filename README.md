@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suhas Pol</h1>
-<h3 align="center">Aspiring Software Engineer | ENTC BE Student | Web & Java Developer</h3>
+<h3 align="center">Aspiring Software Engineer | ENTC TE Student | Web & Java Developer</h3>
 
 <p align="center">
   <a href="https://github.com/suhaspol-18" target="_blank">
