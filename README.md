@@ -5,8 +5,8 @@
   <a href="https://github.com/suhaspol-18" target="_blank">
     <img src="https://img.shields.io/github/followers/suhaspol-18?label=Follow&style=social" alt="GitHub" />
   </a>
-  <a href="mailto:suhaspol99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-suhaspol99@gmail.com-red?style=flat&logo=gmail" alt="Email" />
+  <a href="mailto:suhaspol09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-suhaspol09@gmail.com-red?style=flat&logo=gmail" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/suhas-pol-8762b2232" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
@@ -16,10 +16,10 @@
 ---
 
 ### 👨‍🎓 About Me
-- 🎓 I'm a **T.E. student in Electronics & Telecommunication (ENTC)**  
+- 🎓 I'm a **B.E. student in Electronics & Telecommunication (ENTC)**  
 - 💻 Passionate about **Web Development**, **Problem Solving**, and **Backend Programming**
 - 🌱 Currently improving skills in **Full Stack Development**
-- 📫 Reach me at **suhaspol99@gmail.com**
+- 📫 Reach me at **suhaspol09@gmail.com**
 
 ---
 
